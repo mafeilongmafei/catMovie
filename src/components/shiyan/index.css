@@ -1,0 +1,25 @@
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide {
+   width: 2rem;
+  height: 2.933333rem;
+}
+.swiper-wrapper {
+  display: flex;
+  align-items: center;
+}
+.swiper-slide>img{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.Sactive {
+    position: relative;
+    width: 65px;
+    height: 94px;
+    border: 2px solid #fff;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
