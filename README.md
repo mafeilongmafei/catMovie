@@ -10,4 +10,4 @@
 ![image](https://github.com/mafeilongmafei/catMovie/blob/master/%E5%85%AC%E5%BC%80/5.png)
 
 
-＃npm开始开始
+＃npm  start  开始
