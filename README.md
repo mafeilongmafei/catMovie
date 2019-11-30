@@ -4,4 +4,4 @@
 
 ![image](https://github.com/mafeilongmafei/catMovie/blob/master/%E5%85%AC%E5%BC%80/3.png)
 ！[image] （https://github.com/mafeilongmafei/catMovie/blob/master/%E5%85%AC%E5%BC%80/4.png）
-＃npm start
+
